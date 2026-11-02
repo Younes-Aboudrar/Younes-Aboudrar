@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450" role="img" aria-labelledby="title desc">
+  <title id="title">Younes Aboudrar — Electrical Engineering × Software × AI</title>
+  <desc id="desc">Champagne-gold calligraphy on midnight navy, framed by fine circuit traces. Engineering ideas into real-world solutions.</desc>
+  <rect width="600" height="450" rx="12" fill="#0B1423"/>
+  <rect x="12.5" y="12.5" width="575" height="425" rx="5" fill="none" stroke="#8196A9" stroke-opacity=".22"/>
+  <g fill="none" stroke="#55B9CB" stroke-width="1.25" opacity=".3">
+    <path d="M13 100H40L62 78H90M587 111H564L542 89H514M13 348H36L58 370H86M587 348H564L542 370H514"/>
+    <circle cx="94" cy="78" r="4"/><circle cx="510" cy="89" r="4"/>
+    <circle cx="90" cy="370" r="4"/><circle cx="510" cy="370" r="4"/>
+  </g>
+  <g font-family="Plus Jakarta Sans" text-anchor="middle">
+    <text x="300" y="54" fill="#8196A9" font-size="18" font-weight="500" letter-spacing="2.5">CURIOSITY. PRECISION. PURPOSE.</text>
+    <text x="300" y="167" fill="#D4B78B" font-family="Great Vibes" font-size="82">Younes Aboudrar</text>
+    <text x="300" y="239" fill="#EEF3F8" font-size="33" font-weight="500">Electrical Engineering</text>
+    <text x="300" y="281" fill="#EEF3F8" font-size="33" font-weight="500">× Software × AI</text>
+    <text x="300" y="333" fill="#8196A9" font-size="28">Engineering ideas into</text>
+    <text x="300" y="369" fill="#8196A9" font-size="28">real-world solutions.</text>
+    <text x="300" y="414" fill="#8196A9" font-size="18" font-weight="500" letter-spacing="2.5">NANCY, FRANCE</text>
+  </g>
+  <path d="M210 199H278M322 199H390" stroke="#D4B78B" stroke-width="1" stroke-opacity=".5"/>
+  <path d="M300 195L304 199L300 203L296 199Z" fill="#55B9CB"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+  <title id="title">Younes Aboudrar — Electrical Engineering × Software × AI</title>
+  <desc id="desc">Champagne-gold calligraphy on midnight navy, framed by fine circuit traces. Engineering ideas into real-world solutions.</desc>
+  <rect width="1200" height="450" rx="12" fill="#0B1423"/>
+  <rect x="18.5" y="18.5" width="1163" height="413" rx="5" fill="none" stroke="#8196A9" stroke-opacity=".22"/>
+  <!-- Fine circuit traces: original vector geometry, deliberately kept outside the lettering. -->
+  <g fill="none" stroke="#55B9CB" stroke-width="1.25" opacity=".28">
+    <path d="M19 121H72L100 93H178M19 143H83L111 115H149M1181 105H1100L1064 141H1029M1181 127H1110L1074 163H1055"/>
+    <path d="M19 318H61L89 290H126M1181 307H1135L1109 333H1045"/>
+    <circle cx="182" cy="93" r="4"/><circle cx="153" cy="115" r="4"/>
+    <circle cx="1025" cy="141" r="4"/><circle cx="1051" cy="163" r="4"/>
+    <circle cx="130" cy="290" r="4"/><circle cx="1041" cy="333" r="4"/>
+  </g>
+  <g stroke="#D4B78B" stroke-width="1" opacity=".6">
+    <path d="M48 57H92M1108 57H1152M48 393H92M1108 393H1152"/>
+  </g>
+  <g font-family="Plus Jakarta Sans" text-anchor="middle">
+    <text x="600" y="65" fill="#8196A9" font-size="16" font-weight="500" letter-spacing="4">CURIOSITY. PRECISION. PURPOSE.</text>
+    <text x="600" y="227" fill="#D4B78B" font-family="Great Vibes" font-size="148">Younes Aboudrar</text>
+    <text x="600" y="298" fill="#EEF3F8" font-size="32" font-weight="500">Electrical Engineering × Software × AI</text>
+    <text x="600" y="345" fill="#8196A9" font-size="26">Engineering ideas into real-world solutions.</text>
+    <text x="600" y="400" fill="#8196A9" font-size="14" font-weight="500" letter-spacing="3">NANCY, FRANCE</text>
+  </g>
+  <path d="M486 261H578M622 261H714" stroke="#D4B78B" stroke-width="1" stroke-opacity=".5"/>
+  <path d="M600 257L604 261L600 265L596 261Z" fill="#55B9CB"/>
+</svg>
