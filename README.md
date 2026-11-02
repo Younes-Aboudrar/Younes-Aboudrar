@@ -17,7 +17,7 @@
 <p>
   <a href="https://younes.aboudrar.dev">Portfolio</a> ·
   <a href="https://github.com/Younes-Aboudrar?tab=repositories">Projects</a> ·
-  <a href="mailto:aboudraryns@gmail.com">Email</a> ·
+  <a href="mailto:younes@aboudrar.dev">Email</a> ·
   <a href="https://www.linkedin.com/in/younes-aboudrar/">LinkedIn</a>
 </p>
 
@@ -41,18 +41,6 @@ I connect an electrical engineering foundation with software development and app
 
 `JavaScript` `HTML / CSS` `Azure Translator` `Web Speech API`
 
-### 03 · [AéroENSEM Website](https://github.com/Younes-Aboudrar/aeroensem_website)
-
-**Giving the student aviation club a shared presence online.** A Hugo website introduces the club and highlights its aeronautics event. Markdown content and a GitHub Actions deployment workflow support ongoing updates to GitHub Pages.
-
-`Hugo` `Markdown` `GitHub Actions` `GitHub Pages`
-
-### 04 · [Personal Portfolio](https://github.com/Younes-Aboudrar/portfolio)
-
-**Making an engineering background easy to explore.** A bilingual French/English portfolio built with SvelteKit and TypeScript organizes projects, education, experience, and contact information, with a printable CV drawn from the same content.
-
-`TypeScript` `SvelteKit` `Tailwind CSS` · [Visit the portfolio →](https://younes.aboudrar.dev)
-
 ## Technical expertise
 
 **Demonstrated in the projects above**
@@ -75,5 +63,5 @@ Have a software, AI, automation, or digital engineering problem to work through?
 
 For **PFE opportunities from March 2027**, technical collaborations, or a project conversation:
 
-**[aboudraryns@gmail.com](mailto:aboudraryns@gmail.com)**<br>
+**[younes@aboudrar.dev](mailto:younes@aboudrar.dev)**<br>
 [Portfolio](https://younes.aboudrar.dev) · [LinkedIn](https://www.linkedin.com/in/younes-aboudrar/) · [GitHub](https://github.com/Younes-Aboudrar)
